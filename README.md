@@ -59,3 +59,5 @@ endmodule
 <img width="1920" height="1200" alt="Screenshot 2025-10-14 142617" src="https://github.com/user-attachments/assets/20f06873-ec61-4251-acf2-f35d7fe10168" />
 
 **RESULTS**
+
+SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
